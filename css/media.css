@@ -46,6 +46,12 @@
   .footer__list ,.footer__list__contacts{
     align-items: center;
   }
+  .banner__right{
+    max-width: 521px;
+  }
+  .banner__right__item1-img{
+    padding: 5px 0;
+  }
 }
 
 @media(max-width: 768px) {
@@ -85,6 +91,15 @@
 }
 .news__left{
   padding: 0 5px;
+}
+.banner__left__item1-img{
+  padding: 5px 0;
+}
+.banner__left__item2-img{
+  padding: 5px 0;
+}
+.banner__right__item1-img{
+  padding: 5px 0;
 }
 }
 
