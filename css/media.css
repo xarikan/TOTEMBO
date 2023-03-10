@@ -101,6 +101,12 @@
 .banner__right__item1-img{
   padding: 5px 0;
 }
+.banner__left__item1-desc{
+  padding: 0;
+}
+.banner__right{
+  max-width: 365px;
+}
 }
 
 @media(max-width: 684px) {
